@@ -68,3 +68,36 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+![](https://github.com/phoenix29122003/MERN-project-amazon-clone/assets/125538215/c3f440b2-153e-4190-81cd-f6456c600ad6)
+
+
+
+
+![](https://github.com/phoenix29122003/MERN-project-amazon-clone/assets/125538215/c029c69d-6c50-46d9-811f-4548bde3a3be)
+
+
+
+
+![](https://github.com/phoenix29122003/MERN-project-amazon-clone/assets/125538215/e1da4302-af4b-4279-be79-06451b653068)
+
+
+
+
+![](https://github.com/phoenix29122003/MERN-project-amazon-clone/assets/125538215/e58f6403-d353-498f-9931-21523010a884)
+
+
+
+
+![](https://github.com/phoenix29122003/MERN-project-amazon-clone/assets/125538215/13d4b849-5fd4-4bbc-9c0e-3736ee64aa54)
+
+
+
+
+![](https://github.com/phoenix29122003/MERN-project-amazon-clone/assets/125538215/242526aa-9e80-4571-a7fb-fb75f3dfba08)
+
+
+
+
